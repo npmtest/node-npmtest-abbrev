@@ -1,6 +1,6 @@
 # npmtest-abbrev
 
-#### test coverage for  [abbrev (v1.1.0)](https://github.com/isaacs/abbrev-js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-abbrev.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-abbrev) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-abbrev.svg)](https://travis-ci.org/npmtest/node-npmtest-abbrev)
+#### basic test coverage for  [abbrev (v1.1.0)](https://github.com/isaacs/abbrev-js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-abbrev.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-abbrev) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-abbrev.svg)](https://travis-ci.org/npmtest/node-npmtest-abbrev)
 
 #### Like ruby's abbrev module, but in js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-abbrev/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-abbrev/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-abbrev/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-abbrev/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-abbrev/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-abbrev/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-abbrev/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-abbrev/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-abbrev/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-abbrev/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-abbrev/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-abbrev/build/coverage.html/index.html)
 
@@ -75,7 +75,8 @@
         "preversion": "npm test",
         "test": "tap test.js --100"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
