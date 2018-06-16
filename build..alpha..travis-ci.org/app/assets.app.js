@@ -32956,7 +32956,7 @@ local.stateInit({
             "npm_package_homepage": "https://github.com/npmtest/node-npmtest-abbrev",
             "npm_package_name": "npmtest-abbrev",
             "npm_package_nameLib": "npmtest_abbrev",
-            "npm_package_version": "2017.4.27"
+            "npm_package_version": "2018.6.16"
         }
     }
 });
