@@ -1,0 +1,99 @@
+<svg height="878" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="878" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+
+<tspan x="10" y="42">[MODE_BUILD=buildApp] - 2018-06-16T08:00:42.100Z - npm-testing /home/travis/build/npmtest/node-n\</tspan>
+<tspan x="10" y="58">pmtest-abbrev</tspan>
+
+<tspan x="10" y="74"></tspan>
+
+<tspan x="10" y="90"></tspan>
+
+<tspan x="10" y="106">buildApp - merged test-report from file /home/travis/build/npmtest/node-npmtest-abbrev/tmp/build\</tspan>
+<tspan x="10" y="122">/test-report.json</tspan>
+
+<tspan x="10" y="138">&gt; server listening on http-port 59319</tspan>
+
+<tspan x="10" y="154">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev/pa\</tspan>
+<tspan x="10" y="170">ckage.json</tspan>
+
+<tspan x="10" y="186">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev/ab\</tspan>
+<tspan x="10" y="202">brev.js</tspan>
+
+<tspan x="10" y="218">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev/.g\</tspan>
+<tspan x="10" y="234">itignore</tspan>
+
+<tspan x="10" y="250">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev/LI\</tspan>
+<tspan x="10" y="266">CENSE</tspan>
+
+<tspan x="10" y="282">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev/pa\</tspan>
+<tspan x="10" y="298">ckage.json</tspan>
+
+<tspan x="10" y="314">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev/RE\</tspan>
+<tspan x="10" y="330">ADME.md</tspan>
+
+<tspan x="10" y="346">apidocCreate - requiring /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev ...</tspan>
+
+<tspan x="10" y="362">apidocCreate - ... required /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev</tspan>
+
+<tspan x="10" y="378">created customOrg file /home/travis/build/npmtest/node-npmtest-abbrev/README.md</tspan>
+
+<tspan x="10" y="394"></tspan>
+
+<tspan x="10" y="410">(node:5622) DeprecationWarning: _linklist module is deprecated. Please use a userland alternativ\</tspan>
+<tspan x="10" y="426">e.</tspan>
+
+<tspan x="10" y="442">(node:5622) DeprecationWarning: sys is deprecated. Use util instead.</tspan>
+
+<tspan x="10" y="458">&gt; server listening on http-port 42148</tspan>
+
+<tspan x="10" y="474">[node test-case 1 of 1 passed] - testCase_buildApp_default</tspan>
+
+<tspan x="10" y="490"></tspan>
+
+<tspan x="10" y="506">buildApp - merged test-report from file /home/travis/build/npmtest/node-npmtest-abbrev/tmp/build\</tspan>
+<tspan x="10" y="522">/test-report.json</tspan>
+
+<tspan x="10" y="538"></tspan>
+
+<tspan x="10" y="554">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="570">| test-report - buildApidoc - node - linux v6.14.3 - 2018-06-16T08:00:09.876Z</tspan>
+
+<tspan x="10" y="586">|   38232 ms            0 failed        1 passed      |</tspan>
+
+<tspan x="10" y="602">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="618">| test-report - buildApp - node - linux v6.14.3 - 2018-06-16T07:59:41.126Z</tspan>
+
+<tspan x="10" y="634">|   25765 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="650">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="666">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="682">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-06-16T07:59:52.231Z</tspan>
+
+<tspan x="10" y="698">|      44 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="714">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="730"></tspan>
+
+<tspan x="10" y="746">created test-report file /home/travis/build/npmtest/node-npmtest-abbrev/tmp/build/test-report.ht\</tspan>
+<tspan x="10" y="762">ml</tspan>
+
+<tspan x="10" y="778"></tspan>
+
+<tspan x="10" y="794"></tspan>
+
+<tspan x="10" y="810">buildApp - 0 failed tests</tspan>
+
+<tspan x="10" y="826"></tspan>
+
+<tspan x="10" y="842"></tspan>
+
+<tspan x="10" y="858">[MODE_BUILD=buildApp] - 2018-06-16T08:00:49.635Z - EXIT_CODE - 0</tspan>
+
+</text>
+</svg>
