@@ -1,9 +1,9 @@
-<svg height="942" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="942" fill="#555" width="720"></rect>
+<svg height="1006" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1006" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">[MODE_BUILD=buildApp] - 2018-06-16T08:02:52.975Z - npm-testing /home/travis/build/npmtest/node-n\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=buildApp] - 2018-06-16T08:06:01.179Z - npm-testing /home/travis/build/npmtest/node-n\</tspan>
 <tspan x="10" y="58">pmtest-abbrev</tspan>
 
 <tspan x="10" y="74"></tspan>
@@ -13,7 +13,7 @@
 <tspan x="10" y="106">buildApp - merged test-report from file /home/travis/build/npmtest/node-npmtest-abbrev/tmp/build\</tspan>
 <tspan x="10" y="122">/test-report.json</tspan>
 
-<tspan x="10" y="138">&gt; server listening on http-port 44783</tspan>
+<tspan x="10" y="138">&gt; server listening on http-port 49349</tspan>
 
 <tspan x="10" y="154">apidocCreate - readExample /home/travis/build/npmtest/node-npmtest-abbrev/node_modules/abbrev/pa\</tspan>
 <tspan x="10" y="170">ckage.json</tspan>
@@ -41,12 +41,12 @@
 
 <tspan x="10" y="394"></tspan>
 
-<tspan x="10" y="410">(node:7738) DeprecationWarning: _linklist module is deprecated. Please use a userland alternativ\</tspan>
+<tspan x="10" y="410">(node:9852) DeprecationWarning: _linklist module is deprecated. Please use a userland alternativ\</tspan>
 <tspan x="10" y="426">e.</tspan>
 
-<tspan x="10" y="442">(node:7738) DeprecationWarning: sys is deprecated. Use util instead.</tspan>
+<tspan x="10" y="442">(node:9852) DeprecationWarning: sys is deprecated. Use util instead.</tspan>
 
-<tspan x="10" y="458">&gt; server listening on http-port 62891</tspan>
+<tspan x="10" y="458">&gt; server listening on http-port 55265</tspan>
 
 <tspan x="10" y="474">[node test-case 1 of 1 passed] - testCase_buildApp_default</tspan>
 
@@ -61,7 +61,7 @@
 
 <tspan x="10" y="570">| test-report - buildApidoc - node - linux v6.14.3 - 2018-06-16T08:00:09.876Z</tspan>
 
-<tspan x="10" y="586">|  169116 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="586">|  357335 ms            0 failed        1 passed      |</tspan>
 
 <tspan x="10" y="602">-------------------------------------------------------</tspan>
 
@@ -85,22 +85,29 @@
 
 <tspan x="10" y="778">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="794"></tspan>
+<tspan x="10" y="794">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="810">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-06-16T08:05:11.256Z</tspan>
 
-<tspan x="10" y="810">created test-report file /home/travis/build/npmtest/node-npmtest-abbrev/tmp/build/test-report.ht\</tspan>
-<tspan x="10" y="826">ml</tspan>
+<tspan x="10" y="826">|      40 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="842"></tspan>
+<tspan x="10" y="842">-------------------------------------------------------</tspan>
 
 <tspan x="10" y="858"></tspan>
 
-<tspan x="10" y="874">buildApp - 0 failed tests</tspan>
-
-<tspan x="10" y="890"></tspan>
+<tspan x="10" y="874">created test-report file /home/travis/build/npmtest/node-npmtest-abbrev/tmp/build/test-report.ht\</tspan>
+<tspan x="10" y="890">ml</tspan>
 
 <tspan x="10" y="906"></tspan>
 
-<tspan x="10" y="922">[MODE_BUILD=buildApp] - 2018-06-16T08:03:00.518Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="922"></tspan>
+
+<tspan x="10" y="938">buildApp - 0 failed tests</tspan>
+
+<tspan x="10" y="954"></tspan>
+
+<tspan x="10" y="970"></tspan>
+
+<tspan x="10" y="986">[MODE_BUILD=buildApp] - 2018-06-16T08:06:08.761Z - EXIT_CODE - 0</tspan>
 
 </text>
 </svg>
